@@ -1,0 +1,7 @@
+me\regos\deadbodies\DeadBodies.class
+me\regos\deadbodies\listeners\DeathListener$1.class
+me\regos\deadbodies\tasks\BodyRemoverTask$1.class
+me\regos\deadbodies\listeners\DeathListener.class
+me\regos\deadbodies\Body.class
+me\regos\deadbodies\tasks\BodyRemoverTask.class
+me\regos\deadbodies\BodyManager.class

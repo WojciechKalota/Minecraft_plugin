@@ -1,0 +1,4 @@
+name: DeadBodies
+version: ${project.version}
+main: me.regos.deadbodies.DeadBodies
+api-version: 1.17
